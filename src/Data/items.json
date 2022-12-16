@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rtx 3080 ti",
+    "price": 96999,
+    "so": 1,
+    "imgx": "/Imgs/rtx3080ti.jpg",
+    "category": "Gpu"
+  },
+  {
+    "name": "Rtx 3080",
+    "price": 78499,
+    "so": 2,
+    "imgx": "/Imgs/rtx3080.jpg",
+    "category": "Gpu"
+  },
+  {
+    "name": "AMD Radeon RX6800XT",
+    "price": 92999,
+    "so": 3,
+    "imgx": "/Imgs/rx6800xt.jpg",
+    "category": "Gpu"
+  },
+  {
+    "name": "AMD Radeon RX6700XT",
+    "price": 67300,
+    "so": 4,
+    "imgx": "/Imgs/rx6700xt.jpg",
+    "category": "Gpu"
+  },
+  {
+    "name": "Adata Xpg Gammix 8Gb",
+    "price": 2475,
+    "so": 5,
+    "imgx": "/Imgs/adata8.jpg",
+    "category": "Ram"
+  },
+  {
+    "name": "Corsair Vengeance 8Gb",
+    "price": 3400,
+    "so": 6,
+    "imgx": "/Imgs/corsair.jpg",
+    "category": "Ram"
+  },
+  {
+    "name": "XPG ADATA SPECTRIX 8GBX2",
+    "price": 6199,
+    "so": 7,
+    "imgx": "/Imgs/adata2.jpg",
+    "category": "Ram"
+  },
+  {
+    "name": "Samsung870 Evo 1tb ssd 2.5inch",
+    "price": 8775,
+    "so": 8,
+    "imgx": "/Imgs/evo25.jpg",
+    "category": "ssd"
+  },
+  {
+    "name": "Crucial bx500 1tb 2.5inch",
+    "price": 5325,
+    "so": 9,
+    "imgx": "/Imgs/bx.jpg",
+    "category": "ssd"
+  },
+  {
+    "name": "Samsung 980 500Gb Pcie nvme",
+    "price": 4804,
+    "so": 10,
+    "imgx": "/Imgs/evonvme.jpg",
+    "category": "ssd"
+  }
+]
